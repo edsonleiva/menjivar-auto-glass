@@ -1,0 +1,16 @@
+:root {
+    --primary-color: #d1eaf3;
+    --secondary-color: #384255;
+    --third-color: #7dc8e4;
+    --active-color: #FFDD83;
+}
+
+footer {
+    margin: 7% 0 30px;
+    text-align: center;
+    color: var(--third-color);
+}
+
+footer p {
+    font-size: 1rem;
+}
